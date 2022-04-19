@@ -1,0 +1,4 @@
+USE [Curso]
+
+ALTER TABLE [Aluno]
+ALTER COLUMN [Document] CHAR(10)
